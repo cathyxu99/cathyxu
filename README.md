@@ -14,6 +14,8 @@ My curiosity for emerging technology and the innovative uses of new technology h
 
 ### Oracle Application Express (APEX)
 
+### Design
+
 ## My Experiences
 ### Travel
 
