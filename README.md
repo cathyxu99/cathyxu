@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Cathy Xu
 
-You can use the [editor on GitHub](https://github.com/cathyxu99/cathyxu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My curiosity for emerging technology and the innovative uses of new technology has encouraged me to pursue a degree in information systems. I am passionate about improving customer experience through using technologies such as data analytics to drive change. Working on mobile and web application projects has also sparked my interest in the digital sector. In particular, I am inspired by the unique instances technology can be used to enhance digital tools and processes. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Work
+### INFS2605 (think of new title)
 
-### Markdown
+### INFS3634 (think of new title)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My Experiences
+### Travel
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cathyxu99/cathyxu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Exchange Video
